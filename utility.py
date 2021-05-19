@@ -8,14 +8,13 @@ print(">>> O investimento realizado seja de R$ 100,00")
 
 t = 36
 i = 4.25/100
-
 p = 100.00
+
 #36 semanas
 p = p*36
 
 m = p *(1+i)**t/252
 
 
-
 print("Rendimento: {:.2f}".format(m))
-print("Ganho total: {:.2f}".format(m+p))
+print("Valor total: {:.2f}".format(m+p))
