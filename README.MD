@@ -8,5 +8,5 @@ Nele está disponível o passo a passo para instalação do python nos sistemas 
 
 ### Rodando o script
 Para rodar o script, é preciso que o python esteja ativo na linha de comando. Com o terminal aberto, vá até a pasta ou diretório
-onde o script se encontra e execute o comando `python utility.py`. Será exibido na linha de comando algumas informações, e para realizar o cálculo
+onde o script se encontra e execute o comando `python utility.py`. Caso esteja em uma distribuição linux, o python 2 já pode estar instalado e nesse caso execute esse comando `python3 utility.py`. Será exibido na linha de comando algumas informações, e para realizar o cálculo
 basta digitar o valor a ser investido semanalmente e pressionar a tecla Enter. Logo em seguida o resultado do cálculo seŕa exibido abaixo.
