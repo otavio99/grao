@@ -15,4 +15,5 @@ m = p *(1+i)**t/252
 
 
 
-print("{:.2f}".format(m))
+print("Rendimento: {:.2f}".format(m))
+print("Ganho total: {:.2f}".format(m+p))
