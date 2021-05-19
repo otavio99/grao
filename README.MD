@@ -7,6 +7,6 @@ Para instalar o python em uma máquina que ainda não o tenha, siga as instruç�
 Nele está disponível o passo a passo para instalação do python nos sistemas Windows, Linux e Mac.
 
 ### Rodando o script
-Para rodar o script, é preciso que o python esteja ativo na linha de comando. Com o terminal aberto, vá até a pasta / diretório
+Para rodar o script, é preciso que o python esteja ativo na linha de comando. Com o terminal aberto, vá até a pasta ou diretório
 onde o script se encontra e execute o comando `python utility.py`. Será exibido na linha de comando algumas informações, e para realizar o cálculo
 basta digitar o valor a ser investido semanalmente e pressionar a tecla Enter. Logo em seguida o resultado do cálculo seŕa exibido abaixo.
